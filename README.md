@@ -1,0 +1,2 @@
+# pluszle
+Pluszle game solver
